@@ -1,1 +1,1 @@
-console.log("Microsite Empire Loaded");
+console.log("Micro Base Loaded");
