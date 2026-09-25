@@ -53,6 +53,37 @@ Netlify is the currently verified backup deployment. Cloudflare Pages previously
 - Test one pilot market before multiplying the same approach across many locations.
 - Keep a clear distinction between the base template and site-specific content so future sites can be generated consistently.
 
+## Approved sub-niche intelligence workflow
+
+Before building a microsite, evaluate the proposed service and market using this workflow:
+
+1. Understand the niche, service, customer intent, and real-world context.
+2. Analyze demand, including search volume, frequency, stability, and lead potential.
+3. Evaluate competition, including large brands and the opportunity for smaller businesses.
+4. Assess Google Map Pack difficulty, including ads, major brands, and local competition.
+5. Check organic slot availability beneath AI Overview and determine whether organic results remain viable.
+6. Estimate ticket price and lead value. Give priority to niches where a qualified lead has meaningful commercial value.
+7. Evaluate seasonality and distinguish stable year-round demand from short seasonal spikes.
+8. Assess leasing potential and whether local business owners may pay monthly for qualified leads.
+9. Generate exact-match domain (EMD) ideas based on the niche and target city. Treat EMDs as validation and branding inputs, not a guarantee of ranking.
+10. Evaluate nearby cities for lower competition and stronger opportunity.
+11. Run competitor reconnaissance to identify what ranking sites do well, what they omit, and what useful gaps can be served.
+12. Score the niche from 1–10 based on demand, competition, map difficulty, organic opportunity, ticket value, seasonality, and leasing potential.
+13. Make a plain build/avoid decision with explicit reasoning and red flags.
+14. Recommend the strongest domain from the generated list.
+15. Recommend the best city based on opportunity and commercial potential.
+16. Recommend the microsite angle, such as emergency messaging, pricing clarity, insurance guidance, or another truthful positioning strategy.
+17. Deliver a concise final summary containing:
+   - risk score
+   - build/avoid decision
+   - red flags
+   - opportunities
+   - recommended domain
+   - recommended city
+   - recommended microsite angle
+
+Research conclusions must be evidence-based and current. Do not invent search volumes, rankings, reviews, businesses, map results, demand, or customer outcomes. Clearly label estimates, assumptions, and information that still needs verification.
+
 ## Pending decisions to capture
 
 When the user supplies the business method or site format, document:
