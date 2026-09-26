@@ -58,6 +58,14 @@ Cloudflare Pages is currently verified at its default hostname. Netlify is the v
 
 The goal is a sustainable portfolio of useful, focused websites—not a high count of near-duplicate domains. The business model, target customer, offer, and preferred markets are not yet finalized. Do not assume them; compare options with the user before committing to a pilot.
 
+### Current user-provided pilot direction
+
+- Initially prioritize high-value service industries, but validate actual market demand, competition, provider capacity, lawful operation, and achievable unit economics; a high ticket price by itself is not proof of profitability.
+- Compare two candidate revenue models before choosing the pilot: (a) lease/license a site or marketing asset to a contractor for an agreed fee, or (b) generate and qualify appointments/leads and receive a contractually defined commission when a sale closes.
+- The transcript the user plans to provide is pending. Treat it as reference material to cross-check against reliable sources and actual pilot constraints; do not treat its claims as verified facts.
+- Select one primary model for the pilot. Do not mix lease and sale-commission terms without clear written agreement, attribution, ownership, disclosure, and accounting rules.
+- Before coding the market-specific site, choose a niche, city/coverage, real fulfillment provider, brand/offer, conversion path, and the primary monetization model with the user.
+
 ### Stage 0: choose the business model
 
 For each proposed venture, document:
@@ -95,7 +103,19 @@ Make the pilot's economics explicit before incurring costs:
 - Unit economics: revenue actually collected minus variable and attributable costs; report fixed costs separately and calculate a break-even point only from disclosed assumptions.
 - Risks: weak search demand, no eligible/available provider, low lead acceptance, unresponsive follow-up, legal restrictions, seasonality, domain/platform dependency, and inaccurate claims.
 
-Where practical, validate through direct conversations and written provider terms before launch. Agree what counts as a valid lead, service area, response expectations, attribution, refunds/disputes, data handling, ownership, termination, and whether exclusivity applies. Do not claim forecast revenue, ranking, or lead volume as fact.
+Where practical, validate through direct conversations and written provider terms before launch. Agree what counts as a valid lead or appointment, service area, response expectations, attribution window, duplicate/repeat handling, cancellations/refunds, disputes, data handling, ownership, termination, reporting, payment timing, and whether exclusivity applies. For commission, define which completed/collected sale is attributable, the commission basis/rate, how provider-reported outcomes are reconciled, and what records can be audited. For a lease, define the asset and domain ownership, term, fee, maintenance, lead/data rights, and post-termination handling. Have qualified counsel/accounting advice review material agreements as needed. Do not claim forecast revenue, ranking, or lead volume as fact.
+
+### Lead-to-sale and invoice ledger
+
+Design a minimal private ledger before accepting live leads. Each inquiry should receive a non-identifying unique lead ID; store contact details separately in access-controlled storage and do not place them in public repositories, URLs, analytics events, or routine reports. Track at minimum:
+
+- Lead ID, received timestamp, site/campaign/source, consent/disclosure version where applicable, and service/market requested.
+- Assigned provider, routing timestamp, provider acceptance/rejection and reason, contact/appointment status, and follow-up timestamps.
+- Outcome status (open, invalid, duplicate, contacted, booked, completed, lost, or other agreed states) and outcome evidence/reference.
+- Attributed sale amount and basis only when contractually reportable; commission calculation and rate; invoice ID/date, due date, amount, credits/disputes, payment date, and outstanding balance.
+- Audit trail for status changes, corrections, and provider reconciliation.
+
+Use a private spreadsheet for an early pilot if access controls and data minimization are sufficient; move to an appropriate CRM/accounting system only when volume, access, or reconciliation needs justify it. Do not put customer PII or invoices with sensitive details in this public repository. The ledger supports reconciliation; it does not replace contracts, tax/accounting records, consent compliance, or a provider's source-of-truth sales system.
 
 ### Stage 3: build one pilot to a reusable standard
 
