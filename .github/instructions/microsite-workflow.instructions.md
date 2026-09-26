@@ -56,11 +56,14 @@ Cloudflare Pages is currently verified at its default hostname. Netlify is the v
 
 ## Portfolio business plan and stage gates
 
-The goal is a sustainable portfolio of useful, focused websites—not a high count of near-duplicate domains. The business model, target customer, offer, and preferred markets are not yet finalized. Do not assume them; compare options with the user before committing to a pilot.
+The long-term user ambition is a U.S.-wide portfolio across multiple industries and markets, prioritizing major metros and surrounding suburbs/towns with strong earning potential and sales volume. This is an expansion goal, not approval to mass-publish sites. Build a sustainable portfolio of useful, focused sites—not a high count of near-duplicate domains. The specific niches, business model, target customers, offers, and first pilot markets remain undecided; do not assume them or choose them without evidence and user agreement.
+
+Evaluate opportunity at the metro/market-cluster level. Treat income, population, search volume, ticket size, and sales volume as separate signals; none alone proves demand, partner availability, or profitability. Expand into a suburb/town only when it is genuinely served and has distinct customer value and sufficient evidence to justify separate content or a separate site. Prefer a strong metro-level site with truthful coverage over blanketing the map with thin city-name variants.
 
 ### Current user-provided pilot direction
 
 - Initially prioritize high-value service industries, but validate actual market demand, competition, provider capacity, lawful operation, and achievable unit economics; a high ticket price by itself is not proof of profitability.
+- Long-term ambition: cover the U.S. through multiple industries and major-city/suburban market clusters. The user will provide the niche later; do not begin niche-specific market selection, domain purchases, partner outreach, or site generation until then.
 - Compare two candidate revenue models before choosing the pilot: (a) lease/license a site or marketing asset to a contractor for an agreed fee, or (b) generate and qualify appointments/leads and receive a contractually defined commission when a sale closes.
 - The transcript the user plans to provide is pending. Treat it as reference material to cross-check against reliable sources and actual pilot constraints; do not treat its claims as verified facts.
 - Select one primary model for the pilot. Do not mix lease and sale-commission terms without clear written agreement, attribution, ownership, disclosure, and accounting rules.
