@@ -54,6 +54,92 @@ Cloudflare Pages is currently verified at its default hostname. Netlify is the v
 - Test one pilot market before multiplying the same approach across many locations.
 - Keep a clear distinction between the base template and site-specific content so future sites can be generated consistently.
 
+## Portfolio business plan and stage gates
+
+The goal is a sustainable portfolio of useful, focused websites—not a high count of near-duplicate domains. The business model, target customer, offer, and preferred markets are not yet finalized. Do not assume them; compare options with the user before committing to a pilot.
+
+### Stage 0: choose the business model
+
+For each proposed venture, document:
+
+- Who pays, who receives the service, and who actually performs it.
+- The offer and value to the customer.
+- How the site earns revenue: a service business, contracted marketing/site service, disclosed referral/affiliate arrangement, or another explicit model.
+- Who owns the brand, domain, site, leads, customer relationship, and data.
+- How leads are qualified, routed, consented to where required, followed up, and handled when the provider cannot serve them.
+- Startup and recurring costs, expected revenue assumptions, operating work, and the evidence behind each assumption.
+- What must be verified with the user, provider, accountant, attorney, or regulator before launch.
+
+Do not describe a lead-generation site as the local service provider when it is only an intermediary. Make the operator/referral relationship understandable to visitors, and verify applicable advertising, privacy, consumer-protection, and sector rules before collecting or selling leads.
+
+Substantiate objective advertising claims before publication. Keep reviews and testimonials genuine; disclose material referral, sponsorship, or affiliate relationships clearly near the relevant recommendation. Before a lead form is submitted, explain who operates it, why information is collected, and who may receive it where applicable. Do not imply that a quote or service comes from one provider if the inquiry will be routed to multiple providers.
+
+### Stage 1: discover and prioritize opportunities
+
+1. Gather candidate niches and places from the user's strategy, observed customer problems, credible market sources, and provider conversations.
+2. For each candidate, assess demand, customer urgency, service value, seasonality, competition and SERP composition, map-pack eligibility/difficulty, realistic provider availability, and geographic coverage.
+3. Identify actual prospective providers/partners and validate that they can answer, qualify, and fulfill inquiries in the proposed territory. Do not infer partner demand from search volume alone.
+4. Use source types appropriate to the question: Search Console/keyword tools and live SERPs for search signals; Census and BLS data for demographic/economic context; state/local licensing boards and permit offices for service eligibility; provider interviews and records for actual capacity and economics. None of these is a substitute for another, and no single source proves market profitability.
+5. Record citations, observation date, geography, assumptions, confidence, and unresolved questions. Separate measured facts, third-party claims, estimates, and hypotheses.
+6. Use the sub-niche risk score as a prioritization aid, not a forecast. Explain what evidence would change the score. A candidate cannot pass merely because an exact-match domain is available or the SERP appears weak.
+7. Create a build/hold/avoid recommendation. No domain purchase, service commitment, paid campaign, or public claim without the user's approval.
+
+### Stage 2: validate economics and fulfillment before building
+
+Make the pilot's economics explicit before incurring costs:
+
+- One-time costs: domain, design/development, content/review, setup, and any required professional advice.
+- Recurring costs: hosting, domain renewal, software, analytics, maintenance, support, and acquisition/fulfillment costs.
+- Revenue model: contract/site fee, agreed qualified-lead price, referral commission, or actual service revenue; write down assumptions and payment timing.
+- Lead funnel: visits → inquiries → valid/qualified leads → provider-accepted leads → booked work or sales → collected revenue.
+- Unit economics: revenue actually collected minus variable and attributable costs; report fixed costs separately and calculate a break-even point only from disclosed assumptions.
+- Risks: weak search demand, no eligible/available provider, low lead acceptance, unresponsive follow-up, legal restrictions, seasonality, domain/platform dependency, and inaccurate claims.
+
+Where practical, validate through direct conversations and written provider terms before launch. Agree what counts as a valid lead, service area, response expectations, attribution, refunds/disputes, data handling, ownership, termination, and whether exclusivity applies. Do not claim forecast revenue, ranking, or lead volume as fact.
+
+### Stage 3: build one pilot to a reusable standard
+
+1. Select one niche, one initial market, one real offer, one fulfillment arrangement, and one primary conversion action.
+2. Use the smallest site that fully serves customer needs. A small site may have a focused home/service page, provider/about and coverage information, useful answers, and a clear contact path; add pages only where they serve distinct needs.
+3. Use the current static HTML/CSS/JavaScript base for the pilot unless evidence justifies another platform. Keep content, market facts, contact details, metadata, and brand configuration separate from reusable layout where the implementation supports it.
+4. Before scaling, extract a template/configuration approach only after learning what must vary. Do not generate city pages by swapping names or publish separate domains to capture similar queries and funnel users to one destination.
+5. Verify all content with the actual operator/provider. Include honest disclosures, service limitations, proof, contact ownership, privacy information, and required consent choices based on the actual data flow and applicable law.
+6. Minimize collected lead data. Inventory form fields, analytics/ad tags, vendors, access, and retention; never send names, emails, phone numbers, or sensitive form answers into analytics events or URLs. Document the form/consent text shown and the user's action where appropriate, and define deletion, opt-out, and incident-response procedures.
+7. Treat channels separately: commercial email must be reviewed against CAN-SPAM; marketing calls/texts require a separate review of current federal/state rules, consent, technology, recipient, and message. Do not rely on a generic contact checkbox as universal permission for marketing.
+8. Complete the launch checklist in the pilot SERP playbook, including accessibility basics (keyboard use, labels, contrast, image text alternatives), mobile usability, secure forms, working links, indexability, and deploy verification. Use WCAG 2.2 AA as a practical engineering target, not a claim that this alone satisfies every legal duty.
+9. Before a brand/domain purchase, check domain availability, similar trademarks and marketplace usage, renewal costs, and likely confusion; domain availability alone is not trademark clearance. Before each new state or country, re-check licenses, advertising/privacy/consent rules, taxes, language/cultural fit, and local fulfillment.
+
+### Stage 4: launch, observe, and improve
+
+Record a dated baseline before launch: target queries and geography, observed SERP features, competitor types, existing domain/site status, provider response capacity, costs, and assumptions. After launch, use Search Console and analytics where appropriate and track:
+
+- Technical: deployment availability, HTTPS, status codes, crawl/index state, broken links/assets, and form delivery.
+- Search: impressions, clicks, queries, landing pages, and contextual rank observations; rankings vary and are not the business outcome.
+- Conversion: calls/forms, valid and qualified leads, provider acceptance, response time, bookings/sales, and collected revenue.
+- Economics: spend, recurring cost, cost per qualified/accepted lead, contribution after variable costs, and outstanding receivables.
+- Quality/compliance: complaints, opt-outs, inaccurate claims, consent records where applicable, security/privacy events, and provider/customer feedback.
+
+Review at agreed operational intervals (for example, monthly); do not treat a fixed interval as an SEO-results guarantee. Diagnose the funnel: low impressions calls for checking demand/indexing/content and competition; traffic without inquiries suggests intent/offer/UX mismatch; inquiries without provider acceptance suggests qualification, routing, coverage, or partner fit. Change one major hypothesis at a time where feasible and log the change/date.
+
+### Stage 5: scale only after a documented go decision
+
+Before cloning or opening another market, require evidence that:
+
+- The offer is legitimate, fulfillable, and useful to the target audience.
+- The pilot has working operations and a measured conversion/lead process.
+- Actual costs, accepted leads, and collected revenue support the user's chosen economics.
+- Search/content performance is based on enough relevant observations to inform a decision, not a short ranking spike.
+- The new location is genuinely served and each page/site will add distinct, accurate value.
+- The user approves the next investment and any new domain, provider, market, or data collection.
+
+If these conditions are not met, improve, pause, or stop the pilot rather than multiplying it. Record the decision and learning so later sites reuse proven components without copying thin content.
+
+### Portfolio operations and source of truth
+
+Maintain a portfolio register for each site with: internal site ID; business model; niche/market; audience/offer; operating provider and authorization; owner of site/domain/leads; domain registrar and renewal date; DNS host; repository/branch; production and backup URL; launch/version dates; Search Console/analytics ownership; costs and revenue assumptions/results; privacy/consent data flow; risks; and current status/next decision.
+
+Keep credentials, tokens, customer lead data, transcripts containing personal data, contracts, and private business plans out of this public repository. Use a private repository or access-controlled storage for confidential operational records. The public base repository may hold generic templates and non-sensitive process instructions. Back up important records and use least-privilege access.
+
 ## Approved sub-niche intelligence workflow
 
 Before building a microsite, evaluate the proposed service and market using this workflow:
@@ -129,17 +215,42 @@ The workflow above is grounded primarily in current first-party Google documenta
 - [Google Business Profile eligibility and ownership](https://support.google.com/business/answer/13763036)
 - [Google Business Profile representation guidelines](https://support.google.com/business/answer/3038177)
 - [How to improve local ranking on Google](https://support.google.com/business/answer/7091)
+- [U.S. FTC advertising and marketing guidance](https://www.ftc.gov/business-guidance/advertising-marketing)
+- [FTC endorsement guides: what people are asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)
+- [FTC advertising FAQs for small businesses](https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business)
+- [FTC Consumer Reviews and Testimonials Rule Q&A](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)
+- [FTC CAN-SPAM compliance guide](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business)
+- [FTC guide to protecting personal information](https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business)
+- [FCC guide to unwanted robocalls and texts](https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts)
+- [Federal rules for telemarketing calls and texts, 47 C.F.R. § 64.1200](https://www.ecfr.gov/current/title-47/section-64.1200)
+- [California Privacy Protection Agency FAQ](https://cppa.ca.gov/faq.html)
+- [Google Analytics privacy and data collection](https://support.google.com/analytics/answer/6004245)
+- [Google Analytics regional controls](https://support.google.com/analytics/answer/12017362)
+- [U.S. DOJ ADA web accessibility guidance](https://www.ada.gov/resources/web-guidance/)
+- [W3C WCAG standards](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [USPTO trademark search](https://www.uspto.gov/trademarks/search)
+- [ICANN domain lookup](https://lookup.icann.org/en)
+- [U.S. Census Bureau QuickFacts](https://www.census.gov/quickfacts/)
+- [BLS Occupational Employment and Wage Statistics](https://www.bls.gov/oes/)
+- [U.S. Small Business Administration: licenses and permits](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits)
+- [EU General Data Protection Regulation, Article 3](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+- [European Commission: data-protection obligations for businesses](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations_en)
+
+These sources are a starting point, not legal advice or a substitute for jurisdiction- and industry-specific review. Before an international launch, research the destination's language and cultural context, local search ecosystem, consumer/advertising rules, privacy and consent requirements, taxes, domain rules, and service-provider licensing. Use qualified local advice for legal or tax decisions.
+
+The strategy's specific objectives, including which service to offer, which business model to use, target markets, spending limits, and minimum acceptable unit economics, require the user's decisions. No search tactic, market score, or automation can substitute for those choices or guarantee rankings, leads, or revenue.
 
 ## Pending decisions to capture
 
-When the user supplies the business method or site format, document:
+The operating process is documented, but these owner decisions remain open. Ask one decision at a time when execution depends on them; use evidence-based options and label recommendations:
 
-- Target customer and offer
-- Geographic selection method
-- Site sections and required fields
-- Branding and design rules
-- Lead or contact workflow
-- SEO and analytics standards
-- Domain naming and deployment conventions
-- Internationalization and localization rules
-- Compliance, privacy, and advertising requirements
+- Business model and who fulfills each offer
+- Target customer, initial service niche, and pilot U.S. market
+- Available startup/operating budget and acceptable risk
+- How leads will be fulfilled, transferred, attributed, and compensated
+- Approved brand/site format, required sections, and content voice
+- Domain and brand naming criteria
+- Analytics, lead quality, and go/no-go thresholds
+- Preferred rollout process and who approves publishing, spending, and outreach
+- Target countries/languages and localization priorities before international expansion
+- Industry- and jurisdiction-specific legal, licensing, privacy, advertising, and tax review
