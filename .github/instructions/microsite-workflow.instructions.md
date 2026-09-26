@@ -31,7 +31,7 @@ The user will provide the approved site format, business methods, target markets
 - Cloudflare default hostname: `https://micro-base.pages.dev/`
 - Custom domain available in Cloudflare: `extend-lines.com`
 
-Netlify is the currently verified backup deployment. Cloudflare Pages previously returned 522 errors and should be diagnosed before being treated as the primary production host.
+Cloudflare Pages is currently verified at its default hostname. Netlify is the verified backup deployment. The custom domain `extend-lines.com` is not attached to the Pages project and its DNS has been observed pointing to a Namecheap parking destination; do not change its records without confirming the intended domain use.
 
 ## Required workflow
 
@@ -83,6 +83,22 @@ Before building a microsite, evaluate the proposed service and market using this
    - recommended microsite angle
 
 Research conclusions must be evidence-based and current. Do not invent search volumes, rankings, reviews, businesses, map results, demand, or customer outcomes. Clearly label estimates, assumptions, and information that still needs verification.
+
+## Pilot SERP validation and launch playbook
+
+Use this transcript-derived method as a set of hypotheses to test, not as proof that any tactic guarantees rankings or revenue:
+
+1. **Inspect the actual search results before committing.** Record the target query, location, date, device/context, and visible result features: ads, AI Overviews, local/map results, directories, major brands, and independent local sites. Estimate whether meaningful organic visibility is available and label the assessment as a snapshot.
+2. **Compare more than one query or nearby market when uncertain.** Prefer a small pilot where demand is credible and the results show a realistic opening. Treat relative difficulty as an estimate, not a promise that a “light” result set will rank quickly.
+3. **Plan the complete useful site before launch.** Publish only when the core pages, navigation, contact route, metadata, mobile layout, working assets, and factual review are ready. A sitemap and Search Console can support discovery and measurement, but neither guarantees indexing or rankings.
+4. **Align page titles, headings, URLs, and copy with the service and place naturally.** Use terms where they accurately describe the page and help visitors. Do not repeat exact-match phrases unnaturally, create near-duplicate city pages, or build pages solely to funnel ranking signals to a homepage.
+5. **Make every location or service page materially useful and truthful.** Include genuinely specific coverage, service details, limitations, pricing or estimate information when known, and a clear contact path. Do not imply a local office, staff, license, availability, or completed work that does not exist.
+6. **Use profiles only for a real eligible business or organization.** Keep name, address/service area, phone, and website details accurate and consistent where those profiles are permitted. Do not create fake businesses or listings, fabricate identities, or mass-create profiles to simulate authority.
+7. **Pursue relevant, editorially legitimate mentions and links.** Examples include real trade associations, local organizations, community publications, or genuine partner references. Avoid link schemes, purchased spam links, irrelevant high-authority placements, and self-created directories intended to manipulate rankings.
+8. **Measure consistently over a meaningful period.** Track query, location, date, rank/source, indexing, qualified visits, calls/forms, and lead quality. Use Search Console and analytics where available; rank checks are variable by location, device, and personalization. Early movement—including a six-day contest result—is not durable evidence of ranking or business viability.
+9. **Decide whether to continue based on evidence.** Compare the pilot’s actual qualified leads, conversion, operating costs, and competition against the original assumptions before expanding to additional cities or niches.
+
+Transcript claims such as “rank any website,” rapid ranking, domain-name ranking advantages, or borrowed authority must be treated as speaker claims unless independently substantiated. Exact-match domains may be considered for clarity and branding, but are not a ranking guarantee. Preserve useful strategic ideas while prioritizing search-engine guidelines, truthful representation, and visitor value.
 
 ## Pending decisions to capture
 
